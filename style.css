@@ -1,0 +1,8 @@
+nav{
+  background-color: grey;
+  border: 5px;
+}
+nav ul{
+  display:flex
+  
+}
